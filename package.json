@@ -1,0 +1,12 @@
+{
+  "name": "kelinciku",
+  "version": "1.0.0",
+  "description": "Prototipe interaktif Kelinciku: aplikasi komunikasi sekolah untuk orang tua, guru, dan admin SNIK.",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}
